@@ -1,0 +1,45 @@
+
+/* this is a comment */
+
+body {
+    background-color: green;
+} 
+
+h1 {
+    color: red;
+    font-size: 60px;
+    text-align: center;
+}
+
+
+.intro {
+    color: blue;
+    font-size: 35px;
+}
+
+
+.skills {
+    color: aqua;
+    font-size: 30px;
+}
+
+h3 {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+table, th, td {
+    border: 1px solid; 
+}
+table {
+    /* width: 100px; */
+    border-collapse: collapse;
+}
